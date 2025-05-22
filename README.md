@@ -2,6 +2,8 @@
 
 Ultimate Tic Tac Toe is a strategic twist on the classic game of Tic Tac Toe. In this implementation, you play against a competitive AI that uses **Minimax with Alpha-Beta Pruning** for decision-making, ensuring intelligent and fast responses.
 
+> 🏫 This project was developed as part of an **Artificial Intelligence course** at **Harding University**, with the goal of applying algorithmic game theory and decision-making strategies in a real-world interactive setting.
+
 ---
 
 ## 🎮 Game Concept
